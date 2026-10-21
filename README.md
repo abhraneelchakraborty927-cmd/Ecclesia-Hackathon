@@ -82,7 +82,7 @@ Our objective is to deliver a functional prototype that demonstrates the practic
 Our project aims to provide a practical solution to the selected problem, improve the user experience, and demonstrate how technology can address real-world challenges.
 -------------------
 
-## 🔗 Event Information
+##  Event Information
 
 - **Event:** ECCLESIA 4.0
 - **Year:** 2026
