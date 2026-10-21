@@ -58,7 +58,7 @@ Our objective is to deliver a functional prototype that demonstrates the practic
 - Accessible and easy-to-use design.
 - Additional features developed during the hackathon.
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **HTML5** — Web page structure
 - **CSS3** — Styling and responsive layouts
